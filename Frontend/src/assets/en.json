@@ -1,0 +1,116 @@
+{
+    "id": "en",
+    "general": {
+        "yes": "Yes",
+        "no": "No",
+        "loading": "loading",
+        "error": {
+            "nepunaForma": "All fields must be filled",
+            "netGreska": "Error performing action",
+            "badRequest": "Invalid parameters"
+        },
+        "submit": "Submit"
+    },
+    "header": {
+        "login": "LOGIN",
+        "register": "REGISTER",
+        "majstor": "Craftsman",
+        "poslodavac": "Employer",
+        "profil": "PROFILE"
+    },
+    "pocetna": {
+        "moto": "Find the right local talent for you",
+        "pregledMajstora": "Search Craftsmen",
+        "pregledOglasa": "Search Job Postings"
+    },
+    "profilHeader": {
+        "napraviOglas": "Create Job Posting",
+        "menu": "MENU",
+        "edit": "Edit Profile",
+        "logout": "Log Out",
+        "delete": "Delete Profile",
+        "confirmLogout": "Are you sure you want to log out?",
+        "confirmDelete": "Are you sure you want to delete your profile?"
+    },
+    "formaProfil": {
+        "username": "Username",
+        "password": "Password",
+        "login": "Login",
+        "naziv": "Public Name",
+        "opis": "Description",
+        "grad": "City",
+        "stolar": "Carpenter",
+        "elektricar": "Electrician",
+        "vodoinstalater": "Plumber",
+        "keramicar": "Tilesetter",
+        "drugo": "Other",
+        "register": "Register",
+        "loginPrompt": "Already have an account? Login here",
+        "adresa": "Adress",
+        "vestine": "Skills",
+        "slika": "Profile photo",
+        "naslov": "Title"
+    },
+    "pregledi": {
+        "search": "Search",
+        "filters": "Filters",
+        "filter": "Filter",
+        "minOcena": "Minimum Grade",
+        "none": "None",
+        "sort": "Sort",
+        "ocena": "Grade",
+        "brRecenzija": "Number of Reviews",
+        "minPlata": "Min. hourly pay",
+        "minPOcena": "Min. employer grade",
+        "plata": "Hourly Pay"
+    },
+    "profil": {
+        "zahtevPosao": "Send Job Request",
+        "zahtevGrupa": "Send Group Request",
+        "adminIzbrisi": "Delete User Profile"
+    },
+    "oglas": {
+        "prijavi": "Sign up",
+        "odjavi": "Sign off"
+    },
+    "formaUpdate": {
+        "title": "Update Profile"
+    },
+    "formaUgovor": {
+        "title": "Contract Signing",
+        "imem": "Name of Craftsman",
+        "imep": "Name of Employer",
+        "datump": "Date of Beginning",
+        "datumk": "Date of Ending",
+        "potpisi": "Sign Contract"
+    },
+    "formaGrupa": {
+        "opis": "Request Description",
+        "submit": "Send Group Request"
+    },
+    "formaRecenzija": {
+        "opis": "Review Description",
+        "submit": "Add Review"
+    },
+    "dropdown": {
+        "rasp": "Register as Employer",
+        "rasm": "Register as Craftsman",
+        "switch": "Switch Profile"
+    },
+    "kalendar": {
+        "sd": "Set Days",
+        "sr": "Set Ranges",
+        "fd": "Free Days",
+        "fr": "Free Ranges",
+        "save": "Save Calendar"
+    },
+    "stranicaProfil": {
+        "nema": "No Data",
+        "ugovori": "Contracts",
+        "oglasi": "Job Postings",
+        "gzahtevi": "Group Requests",
+        "pzahtevi": "Job Requests",
+        "kalendar": "Calendar",
+        "clanovi": "Members"
+    }
+}

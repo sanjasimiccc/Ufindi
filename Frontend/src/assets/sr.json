@@ -1,0 +1,116 @@
+{
+    "id": "sr",
+    "general": {
+        "yes": "Da",
+        "no": "Ne",
+        "loading": "učitavanje",
+        "error": {
+            "nepunaForma": "Sva polja moraju biti popunjena",
+            "netGreska": "Greška pri izvršavanju akcije",
+            "badRequest": "Nevalidni parametri"
+        },
+        "submit": "Potvrdi"
+    },
+    "header": {
+        "login": "PRIJAVI SE",
+        "register": "REGISTRUJ SE",
+        "majstor": "Majstor",
+        "poslodavac": "Poslodavac",
+        "profil": "PROFIL"
+    },
+    "pocetna": {
+        "moto": "Nađite odgovarajući lokalni talenat za vas",
+        "pregledMajstora": "Pretraži Majstore",
+        "pregledOglasa": "Pretraži Oglase"
+    },
+    "profilHeader": {
+        "napraviOglas": "Napravi Oglas",
+        "menu": "MENI",
+        "edit": "Izmeni Profil",
+        "logout": "Odjavi se",
+        "delete": "Izbriši Profil",
+        "confirmLogout": "Da li ste sigurni da ćelite da se odjavite?",
+        "confirmDelete": "Da li ste sigurni da želite da izbrišete profil?"
+    },
+    "formaProfil": {
+        "username": "Korisničko Ime",
+        "password": "Lozinka",
+        "login": "Prijavi se",
+        "naziv": "Javni Naziv",
+        "opis": "Opis",
+        "grad": "Grad",
+        "stolar": "Stolar",
+        "elektricar": "Električar",
+        "vodoinstalater": "Vodoinstalater",
+        "keramicar": "Keramičar",
+        "drugo": "Drugo",
+        "register": "Registruj se",
+        "loginPrompt": "Već imate nalog? Prijavite se ovde",
+        "adresa": "Adresa",
+        "vestine": "Veštine",
+        "slika": "Slika Naloga",
+        "naslov": "Naslov"
+    },
+    "pregledi": {
+        "search": "Pretraži",
+        "filters": "Filteri",
+        "filter": "Filtriraj",
+        "minOcena": "Minimalna Ocena",
+        "none": "Nijedan",
+        "sort": "Sortiraj",
+        "ocena": "Ocena",
+        "brRecenzija": "Broj Recenzija",
+        "minPlata": "Min. plata na sat",
+        "minPOcena": "Min. ocena poslodavca",
+        "plata": "Plata na sat"
+    },
+    "profil": {
+        "zahtevPosao": "Pošalji Zahtev za Posao",
+        "zahtevGrupa": "Pošalji Zahtev za Grupu",
+        "adminIzbrisi": "Izbriši Profil Korisnika"
+    },
+    "oglas": {
+        "prijavi": "Prijavi se",
+        "odjavi": "Odjavi se"
+    },
+    "formaUpdate": {
+        "title": "Izmeni Profil"
+    },
+    "formaUgovor": {
+        "title": "Potpisivanje Ugovora",
+        "imem": "Ime Majstora",
+        "imep": "Ime Poslodavca",
+        "datump": "Datum Pocetka",
+        "datumk": "Datum Završetka",
+        "potpisi": "Potpiši Ugovor"
+    },
+    "formaGrupa": {
+        "opis": "Opis Zahteva",
+        "submit": "Pošalji Zahtev za Grupu"
+    },
+    "formaRecenzija": {
+        "opis": "Opis Recenzije",
+        "submit": "Dodaj Recenziju"
+    },
+    "dropdown": {
+        "rasp": "Registruj se kao Poslodavac",
+        "rasm": "Registruj se kao Majstor",
+        "switch": "Promeni Profil"
+    },
+    "kalendar": {
+        "sd": "Postavi Dane",
+        "sr": "Postavi Opsege",
+        "fd": "Oslobodi Dane",
+        "fr": "Oslobodi Opsege",
+        "save": "Sačuvaj Kalendar"
+    },
+    "stranicaProfil": {
+        "nema": "Nema Podataka",
+        "ugovori": "Ugovori",
+        "oglasi": "Oglasi",
+        "gzahtevi": "Zahtevi za Grupu",
+        "pzahtevi": "Zahtevi za Posao",
+        "kalendar": "Kalendar",
+        "clanovi": "Članovi"
+    }
+}
